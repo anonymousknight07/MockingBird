@@ -1,0 +1,182 @@
+{
+  "title": "Trauma Impact Assessment",
+  "description": "Trauma can affect our thoughts, emotions, and daily life in ways we may not always realize. This questionnaire is designed to help you reflect on your experiences and assess how past events might be impacting you. There are no right or wrong answers—just respond honestly based on how you've been feeling. Each question has five options, ranging from 'Not at all' to 'Extremely', to help measure the intensity of your experiences. Your responses can provide insights into patterns of distress and help you understand your emotional well-being better. Take your time, and remember—you are not alone in this journey.",
+  "questions": [
+    {
+      "id": 1,
+      "question": "Do you experience intrusive thoughts about the traumatic event(s)?",
+      "options": [
+        "Not at all",
+        "A little bit",
+        "Moderately",
+        "Quite a bit",
+        "Extremely"
+      ]
+    },
+    {
+      "id": 2,
+      "question": "Do you have distressing dreams related to the event(s)?",
+      "options": [
+        "Not at all",
+        "A little bit",
+        "Moderately",
+        "Quite a bit",
+        "Extremely"
+      ]
+    },
+    {
+      "id": 3,
+      "question": "Do you have flashbacks or feel as if the event is happening again?",
+      "options": [
+        "Not at all",
+        "A little bit",
+        "Moderately",
+        "Quite a bit",
+        "Extremely"
+      ]
+    },
+    {
+      "id": 4,
+      "question": "Do you feel intense psychological distress when exposed to reminders of the event(s)?",
+      "options": [
+        "Not at all",
+        "A little bit",
+        "Moderately",
+        "Quite a bit",
+        "Extremely"
+      ]
+    },
+    {
+      "id": 5,
+      "question": "Do you have physiological reactions (e.g., sweating, increased heart rate) when reminded of the event(s)?",
+      "options": [
+        "Not at all",
+        "A little bit",
+        "Moderately",
+        "Quite a bit",
+        "Extremely"
+      ]
+    },
+    {
+      "id": 6,
+      "question": "Do you avoid thoughts or feelings related to the event(s)?",
+      "options": [
+        "Not at all",
+        "A little bit",
+        "Moderately",
+        "Quite a bit",
+        "Extremely"
+      ]
+    },
+    {
+      "id": 7,
+      "question": "Do you avoid activities, places, or people that remind you of the event(s)?",
+      "options": [
+        "Not at all",
+        "A little bit",
+        "Moderately",
+        "Quite a bit",
+        "Extremely"
+      ]
+    },
+    {
+      "id": 8,
+      "question": "Do you have an inability to remember important aspects of the event(s)?",
+      "options": [
+        "Not at all",
+        "A little bit",
+        "Moderately",
+        "Quite a bit",
+        "Extremely"
+      ]
+    },
+    {
+      "id": 9,
+      "question": "Do you have negative beliefs about yourself or others?",
+      "options": [
+        "Not at all",
+        "A little bit",
+        "Moderately",
+        "Quite a bit",
+        "Extremely"
+      ]
+    },
+    {
+      "id": 10,
+      "question": "Do you experience persistent negative emotions (e.g., fear, anger, guilt)?",
+      "options": [
+        "Not at all",
+        "A little bit",
+        "Moderately",
+        "Quite a bit",
+        "Extremely"
+      ]
+    },
+    {
+      "id": 11,
+      "question": "Have you lost interest in activities you used to enjoy?",
+      "options": [
+        "Not at all",
+        "A little bit",
+        "Moderately",
+        "Quite a bit",
+        "Extremely"
+      ]
+    },
+    {
+      "id": 12,
+      "question": "Do you feel detached or estranged from others?",
+      "options": [
+        "Not at all",
+        "A little bit",
+        "Moderately",
+        "Quite a bit",
+        "Extremely"
+      ]
+    },
+    {
+      "id": 13,
+      "question": "Do you have difficulty experiencing positive emotions?",
+      "options": [
+        "Not at all",
+        "A little bit",
+        "Moderately",
+        "Quite a bit",
+        "Extremely"
+      ]
+    },
+    {
+      "id": 14,
+      "question": "Do you experience hyper vigilance or are you easily startled?",
+      "options": [
+        "Not at all",
+        "A little bit",
+        "Moderately",
+        "Quite a bit",
+        "Extremely"
+      ]
+    },
+    {
+      "id": 15,
+      "question": "Do you have difficulty concentrating?",
+      "options": [
+        "Not at all",
+        "A little bit",
+        "Moderately",
+        "Quite a bit",
+        "Extremely"
+      ]
+    },
+    {
+      "id": 16,
+      "question": "Do you experience sleep disturbances (e.g., trouble falling asleep, nightmares)?",
+      "options": [
+        "Not at all",
+        "A little bit",
+        "Moderately",
+        "Quite a bit",
+        "Extremely"
+      ]
+    }
+  ]
+}

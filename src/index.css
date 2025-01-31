@@ -1,0 +1,33 @@
+@import url('https://fonts.googleapis.com/css2?family=Manrope:wght@400;700&display=swap');
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --color-coral-500: #ff6b6b;
+  --color-coral-600: #ff5252;
+}
+
+@layer base {
+  body {
+    @apply antialiased;
+  }
+}
+
+@layer components {
+  .bg-coral-500 {
+    background-color: var(--color-coral-500);
+  }
+  
+  .bg-coral-600 {
+    background-color: var(--color-coral-600);
+  }
+  
+  .text-coral-500 {
+    color: var(--color-coral-500);
+  }
+
+  .footer-gradient {
+    background: linear-gradient(90deg, #4ba97a 0%, #06816f 100%);
+  }
+}

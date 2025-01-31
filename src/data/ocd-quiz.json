@@ -1,0 +1,94 @@
+{
+  "title": "Obsessive-Compulsive Disorder (OCD) Assessment",
+  "description": "This questionnaire helps you assess the frequency and severity of obsessive thoughts and compulsive behaviors. By reflecting on your experiences, you'll gain insight into how these behaviors affect your time and well-being.",
+  "questions": [
+    {
+      "id": 1,
+      "question": "How much time do you spend on obsessive thoughts?",
+      "options": [
+        "No symptoms",
+        "Mild symptoms",
+        "Moderate symptoms",
+        "Severe symptoms",
+        "Extreme symptoms"
+      ]
+    },
+    {
+      "id": 2,
+      "question": "How much distress do these thoughts cause you?",
+      "options": [
+        "No symptoms",
+        "Mild symptoms",
+        "Moderate symptoms",
+        "Severe symptoms",
+        "Extreme symptoms"
+      ]
+    },
+    {
+      "id": 3,
+      "question": "How difficult do you find it to control these thoughts?",
+      "options": [
+        "No symptoms",
+        "Mild symptoms",
+        "Moderate symptoms",
+        "Severe symptoms",
+        "Extreme symptoms"
+      ]
+    },
+    {
+      "id": 4,
+      "question": "How much do these thoughts interfere with your daily functioning?",
+      "options": [
+        "No symptoms",
+        "Mild symptoms",
+        "Moderate symptoms",
+        "Severe symptoms",
+        "Extreme symptoms"
+      ]
+    },
+    {
+      "id": 5,
+      "question": "How much time do you spend performing compulsive behaviors?",
+      "options": [
+        "No symptoms",
+        "Mild symptoms",
+        "Moderate symptoms",
+        "Severe symptoms",
+        "Extreme symptoms"
+      ]
+    },
+    {
+      "id": 6,
+      "question": "How much distress do you feel if you cannot perform these behaviors?",
+      "options": [
+        "No symptoms",
+        "Mild symptoms",
+        "Moderate symptoms",
+        "Severe symptoms",
+        "Extreme symptoms"
+      ]
+    },
+    {
+      "id": 7,
+      "question": "How difficult is it for you to resist performing these behaviors?",
+      "options": [
+        "No symptoms",
+        "Mild symptoms",
+        "Moderate symptoms",
+        "Severe symptoms",
+        "Extreme symptoms"
+      ]
+    },
+    {
+      "id": 8,
+      "question": "How much do these behaviors interfere with your daily functioning?",
+      "options": [
+        "No symptoms",
+        "Mild symptoms",
+        "Moderate symptoms",
+        "Severe symptoms",
+        "Extreme symptoms"
+      ]
+    }
+  ]
+}

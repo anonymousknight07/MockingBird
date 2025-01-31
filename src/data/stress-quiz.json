@@ -1,0 +1,306 @@
+{
+  "title": "Stress Assessment",
+  "description": "Stress is a natural part of life, but when it becomes overwhelming, it can affect our emotions, productivity, and overall well-being. This questionnaire is designed to help you evaluate your current stress levels by reflecting on your thoughts, feelings, and daily experiences. There are no right or wrong answers—just be honest about how you've been feeling. Each question has four options, ranging from 'Almost' to 'Usually,' to help measure the frequency of your stress-related experiences. By understanding your stress levels, you can take steps to manage them better and improve your overall well-being. Take a deep breath, and let's begin.",
+  "questions": [
+    {
+      "id": 1,
+      "question": "Do you feel rested?",
+      "options": [
+        "Almost",
+        "Sometimes",
+        "Often",
+        "Usually"
+      ]
+    },
+    {
+      "id": 2,
+      "question": "Do you feel that too many demands are being made on you?",
+      "options": [
+        "Almost",
+        "Sometimes",
+        "Often",
+        "Usually"
+      ]
+    },
+    {
+      "id": 3,
+      "question": "Are you irritable or grouchy?",
+      "options": [
+        "Almost",
+        "Sometimes",
+        "Often",
+        "Usually"
+      ]
+    },
+    {
+      "id": 4,
+      "question": "Do you have too many things to do?",
+      "options": [
+        "Almost",
+        "Sometimes",
+        "Often",
+        "Usually"
+      ]
+    },
+    {
+      "id": 5,
+      "question": "Do you feel lonely or isolated?",
+      "options": [
+        "Almost",
+        "Sometimes",
+        "Often",
+        "Usually"
+      ]
+    },
+    {
+      "id": 6,
+      "question": "Do you find yourself in situations of conflict?",
+      "options": [
+        "Almost",
+        "Sometimes",
+        "Often",
+        "Usually"
+      ]
+    },
+    {
+      "id": 7,
+      "question": "Do you feel you're doing things you really like?",
+      "options": [
+        "Almost",
+        "Sometimes",
+        "Often",
+        "Usually"
+      ]
+    },
+    {
+      "id": 8,
+      "question": "Do you feel tired?",
+      "options": [
+        "Almost",
+        "Sometimes",
+        "Often",
+        "Usually"
+      ]
+    },
+    {
+      "id": 9,
+      "question": "Do you fear you may not manage to attain your goals?",
+      "options": [
+        "Almost",
+        "Sometimes",
+        "Often",
+        "Usually"
+      ]
+    },
+    {
+      "id": 10,
+      "question": "Do you feel calm?",
+      "options": [
+        "Almost",
+        "Sometimes",
+        "Often",
+        "Usually"
+      ]
+    },
+    {
+      "id": 11,
+      "question": "Do you have too many decisions to make?",
+      "options": [
+        "Almost",
+        "Sometimes",
+        "Often",
+        "Usually"
+      ]
+    },
+    {
+      "id": 12,
+      "question": "Do you feel frustrated?",
+      "options": [
+        "Almost",
+        "Sometimes",
+        "Often",
+        "Usually"
+      ]
+    },
+    {
+      "id": 13,
+      "question": "Are you full of energy?",
+      "options": [
+        "Almost",
+        "Sometimes",
+        "Often",
+        "Usually"
+      ]
+    },
+    {
+      "id": 14,
+      "question": "Do you feel tense?",
+      "options": [
+        "Almost",
+        "Sometimes",
+        "Often",
+        "Usually"
+      ]
+    },
+    {
+      "id": 15,
+      "question": "Do your problems seem to be piling up?",
+      "options": [
+        "Almost",
+        "Sometimes",
+        "Often",
+        "Usually"
+      ]
+    },
+    {
+      "id": 16,
+      "question": "Do you feel you're in a hurry?",
+      "options": [
+        "Almost",
+        "Sometimes",
+        "Often",
+        "Usually"
+      ]
+    },
+    {
+      "id": 17,
+      "question": "Do you feel safe and protected?",
+      "options": [
+        "Almost",
+        "Sometimes",
+        "Often",
+        "Usually"
+      ]
+    },
+    {
+      "id": 18,
+      "question": "Do you have many worries?",
+      "options": [
+        "Almost",
+        "Sometimes",
+        "Often",
+        "Usually"
+      ]
+    },
+    {
+      "id": 19,
+      "question": "Are you under pressure from other people?",
+      "options": [
+        "Almost",
+        "Sometimes",
+        "Often",
+        "Usually"
+      ]
+    },
+    {
+      "id": 20,
+      "question": "Do you feel discouraged?",
+      "options": [
+        "Almost",
+        "Sometimes",
+        "Often",
+        "Usually"
+      ]
+    },
+    {
+      "id": 21,
+      "question": "Do you enjoy yourself?",
+      "options": [
+        "Almost",
+        "Sometimes",
+        "Often",
+        "Usually"
+      ]
+    },
+    {
+      "id": 22,
+      "question": "Are you afraid for the future?",
+      "options": [
+        "Almost",
+        "Sometimes",
+        "Often",
+        "Usually"
+      ]
+    },
+    {
+      "id": 23,
+      "question": "Do you feel you're doing things because you have to, not because you want to?",
+      "options": [
+        "Almost",
+        "Sometimes",
+        "Often",
+        "Usually"
+      ]
+    },
+    {
+      "id": 24,
+      "question": "Do you feel criticized or judged?",
+      "options": [
+        "Almost",
+        "Sometimes",
+        "Often",
+        "Usually"
+      ]
+    },
+    {
+      "id": 25,
+      "question": "Are you lighthearted?",
+      "options": [
+        "Almost",
+        "Sometimes",
+        "Often",
+        "Usually"
+      ]
+    },
+    {
+      "id": 26,
+      "question": "Do you feel mentally exhausted?",
+      "options": [
+        "Almost",
+        "Sometimes",
+        "Often",
+        "Usually"
+      ]
+    },
+    {
+      "id": 27,
+      "question": "Do you have trouble relaxing?",
+      "options": [
+        "Almost",
+        "Sometimes",
+        "Often",
+        "Usually"
+      ]
+    },
+    {
+      "id": 28,
+      "question": "Do you feel loaded down with responsibility?",
+      "options": [
+        "Almost",
+        "Sometimes",
+        "Often",
+        "Usually"
+      ]
+    },
+    {
+      "id": 29,
+      "question": "Do you have enough time for yourself?",
+      "options": [
+        "Almost",
+        "Sometimes",
+        "Often",
+        "Usually"
+      ]
+    },
+    {
+      "id": 30,
+      "question": "Do you feel under pressure from deadlines?",
+      "options": [
+        "Almost",
+        "Sometimes",
+        "Often",
+        "Usually"
+      ]
+    }
+  ]
+}
